@@ -37,18 +37,20 @@
   <h3>Retail Intelligence Optimization System (RIOS)</h3>
 
   <p>
-    AI-powered system that turns real-world behavior into actionable insights
+    Turning real-world customer behavior into decision-ready intelligence
   </p>
 
   <p>
-    🔹 Computer vision + backend + dashboard<br>
-    🔹 Detects interactions (touch, hold, item removal)<br>
-    🔹 Converts behavior into business metrics<br>
-    🔹 Designed for real-world deployment (IoT-ready)
+    🔹 End-to-end AI system: Computer Vision → Backend → Analytics → Decision<br>
+    🔹 Detects shelf-level interactions (touch, hold, item removal, no interaction)<br>
+    🔹 Translates behavior signals into KPIs, conversion insights, and demand signals<br>
+    🔹 Integrates sales, inventory, and behavioral data into one unified system<br>
+    🔹 AI-assisted reporting with context-aware insights and recommendations<br>
+    🔹 Designed for real-world deployment (IoT / edge-camera ready)
   </p>
 
   <p>
-    <a href="https://github.com/bNhN-0">
+    <a href="https://github.com/bNhN-0/RIOS-----Retail-Intelligence-Optimization-System/">
       <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
   </p>

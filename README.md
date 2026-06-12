@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="https://bnhn-0-portfolio.vercel.app/">
+  <a href="https://bnhn-wired.vercel.app/">
     <img src="https://img.shields.io/badge/Visit%20Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
   </a>
   <a href="https://www.linkedin.com/in/banyar-htet-naung-618599290/">

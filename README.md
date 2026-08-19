@@ -8,34 +8,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bNhN-0&color=blue" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Applied%20AI-14B8A6?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-22C55E?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-3B82F6?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Data%20Pipelines-F97316?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Intelligent%20Systems-A855F7?style=flat-square&labelColor=0D1117"/>
-</p>
-<p align="center">
-  Explore my portfolio for selected projects, technical case studies, resume, and contact information.
-</p>
-
-<p align="center">
-  <a href="https://bnhn-wired.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
-  </a>
-  <a href="https://www.linkedin.com/in/banyar-htet-naung-618599290/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-
-
-<h2 align="center">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="20" alt="GitHub icon"/>
-  GitHub Stats
-</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bNhN-0&theme=tokyonight" alt="GitHub Streak" />
-</p>
